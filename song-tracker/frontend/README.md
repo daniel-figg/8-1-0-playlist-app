@@ -1,5 +1,7 @@
 # React + Vite
 
+[DEPLOYED LINK](https://eight-1-0-playlist-app.onrender.com/)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
